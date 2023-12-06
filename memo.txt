@@ -1,0 +1,149 @@
+<h1>プログラミング、アプリ開発経験</h1>
+<h2>GitHub レポジトリなど</h2>
+    <ul>
+        <li>ポートフォリオ（このページ）: <a href="https://ameblo.jp/shiroatohiro/" target="_blank">https://ameblo.jp/shiroatohiro/</a></li>
+        <li>Qiita: <a href="https://qiita.com/ShiroatoHiro/items/8a7c76b08095731273c7" target="_blank">qiita.com/ShiroatoHiro</a></li>
+        <li>Youtube: <a href="https://www.youtube.com/watch?v=yIzHmHnT-qo" target="_blank">youtube.com/watch?v=yIzHmHnT-qo</a></li>
+        <li>GitHub: <a href="https://github.com/SuperHiroki" target="_blank">github.com/SuperHiroki</a></li>
+    </ul>
+
+
+    <h2>使用できる技術</h2>
+<p>Python, JavaScript, C#, HTML/CSS, R, C/C++, Ruby on Rails, Flutter, VIsual Studio, VSCode, Apache2, nginx, Docker, Docker-Compose, Django, Flask, Socket.IO, Jquery, MySQL, SQLite, MongoDB, Ubuntu, CentOS, AWS(EC2, RDS, Multi-AZ, Terraform, SDK, NAT), iPhone(Xcode), Android(Android Studio, adb), Jenkins, Unity(Netcode, Relay(websocket)), LINE Bot, Tailwind, React, Node.js</p>
+
+
+
+
+    <h2>これまでの個人の開発経験</h2>
+
+
+    <div class="project">
+        <h3 class="project-title">数学の記事（質問）の投稿サイト</h3>
+        <a href="https://mathqiita.shiroatohiro.com/" target="_blank">https://mathqiita.shiroatohiro.com/</a>
+        <a href="http://mathqiita.shiroatohiro.com/" target="_blank">http://mathqiita.shiroatohiro.com/</a>
+        使用技術：Ruby On Rails, JavaScript, HTML/CSS, Tailwind, AWS(RDS, EC2, SDK, Multi-AZ, Terraform), docker-compose, MySQL, Jenkins
+        アピールポイント：MathJaxを使って数学の記事や質問を書くことができる。コメントやいいねをつけることができる。記事一覧画面にはページング機能を導入した。アイコンの画像をアップロードすることができる。コメントやいいねに対して通知設定をすることができる。いいねをもらった個数によるランキングを表示するページを作った。個人のマイページで、その人がいいねした記事や質問の一覧を確認できる。プロフィール設定、通知設定、アカウント設定を変更できる。スタイリッシュなUIにこだわった。記事編集画面で、Qiitaのように、「Editor, Preview, Split-View」を切り替えることができるようにした。記事の検索機能もついており、「タグ、タイトル、記事の内容、著者」などでで検索することができる。
+    </div>
+
+
+    <div class="project">
+        <h3 class="project-title">3D オンライン対戦ゲーム(Unity)</h3>
+        <a href="http://onlinebattle_webgl.shiroatohiro.com/" target="_blank">onlinebattle_webgl.shiroatohiro.com</a>
+        使用技術：C#(Unity), Relay, Netcode, MySQL, Flask, apache2, Jenkins
+        アピールポイント：デスクトップではなくWebで遊べるように工夫した。リアルタイム通信を実現した。ガチャを回したりキャラを育成したりすることができる。ハートビートを導入して、参加可能な部屋が表示されるようにした。スマホでも操作できるようにスワイプ機能や攻撃のボタンを画面に追加した。残機を選択したり、キャラレベルを選択したりすることができる。キャラレベルによって攻撃の大きさが異なる。キャラ一覧が表示される。キャラの詳細ページを作った。
+    </div>
+  
+
+    <div class="project">
+        <h3 class="project-title">オセロのオンライン対戦ゲーム</h3>
+        <a href="http://site10.shiroatohiro.com/" target="_blank">site10.shiroatohiro.com</a>
+        使用技術：Flask, AWS, docker, nginx, JavaScript, Jquery, HTML/CSS, Tailwind, Socket.io, MySQL
+        アピールポイント：Websocketを使ってリアルタイム通信を実現している。部屋を作る際に、パスワードが設定してある非公開部屋を作ることもできるし、パスワードが設定していない公開部屋を作ることもできる。対戦相手の切断を検知して表示するようにしている。自由に観戦することができ、誰が観戦したのかを表示している。観戦人数を表示している。試合結果がDBに保持される。
+    </div>
+
+
+    <div class="project">
+        <h3 class="project-title">リアルタイムチャット</h3>
+        <a href="http://site9.shiroatohiro.com/" target="_blank">site9.shiroatohiro.com</a>
+    </div>
+
+    <div class="project">
+        <h3 class="project-title">誰でも自由に書き込める掲示板</h3>
+        <a href="http://site4.shiroatohiro.com/" target="_blank">site4.shiroatohiro.com</a>
+    </div>
+
+    <div class="project">
+        <h3 class="project-title">カテゴリごとに分類できるブログ（誰でも管理者としてログインできるようにしてある）</h3>
+        <a href="http://site7.shiroatohiro.com/" target="_blank">site7.shiroatohiro.com</a>
+    </div>
+
+    <div class="project">
+        <h3 class="project-title">モバイルアプリ</h3>
+        デモ動画：<a href="https://www.youtube.com/watch?v=7gl76h1RBX8" target="_blank">https://www.youtube.com/watch?v=7gl76h1RBX8</a>
+        使用技術：Flutter, Android Studio, SQLite
+    </div>
+
+    <div class="project">
+        <h3 class="project-title">動画素材を公開するためサイト（誰でも管理者としてログインできるようにしてある）</h3>
+        <a href="http://site6.shiroatohiro.com/" target="_blank">site6.shiroatohiro.com</a>
+    </div>
+
+    <div class="project">
+        <h3 class="project-title">統計チートシート</h3>
+        <a href="http://site11.shiroatohiro.com/" target="_blank">site11.shiroatohiro.com</a>
+        使用技術：Django, AWS, apache2, JavaScript, Jquery, HTML/CSS, Jenkins
+    </div>
+
+    <div class="project">
+        <h3 class="project-title">ダッシュボード（Todoリストのみ）</h3>
+        <a href="http://dashboard.shiroatohiro.com/" target="_blank">http://dashboard.shiroatohiro.com/</a>
+        使用技術：Node.js, React, MySQL, AWS
+    </div>
+
+   <div class="project">
+        <h3 class="project-title">メモを管理できる Line Bot</h3>
+        <a href="https://line.me/R/ti/p/%40467etfxh" target="_blank">line.me/R/ti/p/%40467etfxh</a>
+        デモ動画：<a href="https://www.youtube.com/watch?v=47_ZcjrRDAw&amp;t=1s" target="_blank">youtube.com/watch?v=47_ZcjrRDAw&amp;t=1s</a>
+    </div>
+
+    <div class="project">
+        <h3 class="project-title">ブログ（誰でも管理者としてログインできるようにしてある）</h3>
+        <a href="http://site5.shiroatohiro.com/" target="_blank">site5.shiroatohiro.com</a>
+    </div>
+
+
+
+    <h2>インターン参加経験</h2>
+    <div class="internship">
+        <h3>シスコシステムズ</h3>
+
+        期間：2 か月間(8, 9 月)フルタイム
+
+        使用技術：ルータやサーバなどを使った。
+
+        仕事：メインの業務として、ルータやサーバのトラブルシューティングを行った。ログ解析をしたり、ラボ機器でお客様の環境を再現したりした。その他、記事を書くなども行った。
+ルータやサーバとずっと向き合っていたので、ネットワークのことやLinux（ubuntu, CentOS）についてさらに強くなった
+
+
+    </div>
+
+
+
+    <h2>ハッカソン参加経験</h2>
+    <div class="hackathon">
+        <h3>BIPROGY</h3>
+
+        期間：3 日間
+
+        内容：質問を投げたり整理したりすることができる、質問の管理ツールを開発した。Line Bot を用いた。
+
+    </div>
+    <div class="hackathon">
+        <h3>シスコシステムズ</h3>
+
+        期間：5 日間
+
+        内容：ラボ機器の予約を管理するアプリを開発した。Python を用いた。
+
+    </div>
+
+
+
+    <h2>資格</h2>
+    <ul class="qualification">
+        <li>応用情報技術者試験</li>
+        <li>基本情報技術者試験</li>
+        <li>Python3エンジニア認定実践試験</li>
+        <li>C言語プログラミング能力認定試験1級</li>
+    </ul>
+
+   <h2>大学での研究</h2>
+<p>計量経済学という統計学を用いたデータ分析を行っています。データ分析に使っている言語はRであり、スクレイピングやデータ整形などに使っている言語はPythonです。
+卒業論文では、ESG指数への採用（または除外）が企業の株価に及ぼす影響を調査しました。Pythonを用いて大量のデータをスクレイピングし、その後の分析にはRを使用しました。
+卒論において、データ分析には主に合成コントロール法という手法を採用しました。この手法により、イベント（本研究ではESG指数への採用）が対象グループ（本研究では調査対象の企業群）に与えた影響を推測することが可能です。具体的な手順として、適切なモデル式を設定し、もし対象企業がイベントの影響を受けなかった場合に得られるであろう仮想的なデータを、コントロールグループの企業データを使用して推測します。そして、実際のデータとイベントの影響がないと仮定した場合の仮想データを比較し、イベントが対象企業に与えた影響を推定します。
+</p>
+<a href="https://github.com/SuperHiroki/Scraping_and_R" target="_blank">https://github.com/SuperHiroki/Scraping_and_R</a>
+
+<h1>その他プロフィール</h1>
+<h2>趣味や部活</h2>
+<p>学生時代は、サッカー（フットサル）部、CGや動画編集、プログラミングに力を入れてきた。</p>
